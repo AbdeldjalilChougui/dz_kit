@@ -72,6 +72,19 @@
       "fr": "Menaâ",
       "ar": "مناعة",
       "reason": "Item is Menaâ commune (arwiki sitelink 'مناعة (ولاية المسيلة)', daïra of Medjedel) but is labelled 'Ouled Atia'; name as printed in law 26-06, art. 52 bis 19"
+    },
+    "Q1650068": {
+      "fr": "Sidi Brahim",
+      "ar": "سيدي إبراهيم",
+      "reason": "Labels read 'gambetta' (colonial-era name); frwiki/arwiki sitelinks are 'Sidi Brahim (Sidi Bel Abbès)' / 'سيدي إبراهيم (سيدي بلعباس)'"
+    },
+    "Q3517374": {
+      "ar": "التلة",
+      "reason": "Arabic label duplicates Tala Ifacene (Q3514419); arwiki sitelink is 'التلة (ولاية سطيف)'"
+    },
+    "Q1649348": {
+      "fr": "Ferdjioua",
+      "reason": "French label uses the former name Fedj M'Zala while the Arabic label and frwiki sitelink use the current name Ferdjioua"
     }
   },
   "law_aliases": {
@@ -132,5 +145,23 @@
     "Sidi Amar": "Q2784515",
     "Sidi Slimane": "Q3483288",
     "El Meharra": "Q3050067"
+  },
+  "seats": {
+    "16": {
+      "commune": "Q2835683",
+      "reason": "The chef-lieu Alger is split into several communes; Alger-Centre is used as the centre point"
+    },
+    "50": {
+      "commune": "Q2535214",
+      "reason": "Commune spelled Bordj Badji Mokhtar, wilaya Bordj Baji Mokhtar"
+    },
+    "58": {
+      "commune": "Q1324185",
+      "reason": "Commune spelled El Menia, wilaya El Meniaa"
+    },
+    "65": {
+      "commune": "Q651497",
+      "reason": "Commune spelled Aïn Oussara in Wikidata, Aïn Ouessara in decree 26-206"
+    }
   }
 }
