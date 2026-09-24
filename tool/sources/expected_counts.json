@@ -1,0 +1,282 @@
+{
+  "note": "Expected number of communes per wilaya under the 69-wilaya division. The generator refuses to write data that does not match. Total fixed by law 26-06, art. 2: 1541.",
+  "total": 1541,
+  "counts": {
+    "01": {
+      "communes": 16,
+      "source": "Loi 19-12 (JORADP 2019 n° 78)"
+    },
+    "02": {
+      "communes": 35,
+      "source": "fr.wikipedia.org, Liste des wilayas d'Algérie (commune counts per wilaya), cross-check only"
+    },
+    "03": {
+      "communes": 12,
+      "source": "Loi 26-06 (JORADP 2026 n° 25)"
+    },
+    "04": {
+      "communes": 29,
+      "source": "fr.wikipedia.org, Liste des wilayas d'Algérie (commune counts per wilaya), cross-check only"
+    },
+    "05": {
+      "communes": 53,
+      "source": "Loi 26-06 (JORADP 2026 n° 25)"
+    },
+    "06": {
+      "communes": 52,
+      "source": "fr.wikipedia.org, Liste des wilayas d'Algérie (commune counts per wilaya), cross-check only"
+    },
+    "07": {
+      "communes": 22,
+      "source": "Loi 26-06 (JORADP 2026 n° 25)"
+    },
+    "08": {
+      "communes": 11,
+      "source": "Loi 19-12 (JORADP 2019 n° 78)"
+    },
+    "09": {
+      "communes": 25,
+      "source": "fr.wikipedia.org, Liste des wilayas d'Algérie (commune counts per wilaya), cross-check only"
+    },
+    "10": {
+      "communes": 45,
+      "source": "fr.wikipedia.org, Liste des wilayas d'Algérie (commune counts per wilaya), cross-check only"
+    },
+    "11": {
+      "communes": 5,
+      "source": "Loi 19-12 (JORADP 2019 n° 78)"
+    },
+    "12": {
+      "communes": 24,
+      "source": "Loi 26-06 (JORADP 2026 n° 25)"
+    },
+    "13": {
+      "communes": 49,
+      "source": "Loi 26-06 (JORADP 2026 n° 25)"
+    },
+    "14": {
+      "communes": 36,
+      "source": "Loi 26-06 (JORADP 2026 n° 25)"
+    },
+    "15": {
+      "communes": 67,
+      "source": "fr.wikipedia.org, Liste des wilayas d'Algérie (commune counts per wilaya), cross-check only"
+    },
+    "16": {
+      "communes": 57,
+      "source": "fr.wikipedia.org, Liste des wilayas d'Algérie (commune counts per wilaya), cross-check only"
+    },
+    "17": {
+      "communes": 18,
+      "source": "Loi 26-06 (JORADP 2026 n° 25)"
+    },
+    "18": {
+      "communes": 28,
+      "source": "fr.wikipedia.org, Liste des wilayas d'Algérie (commune counts per wilaya), cross-check only"
+    },
+    "19": {
+      "communes": 60,
+      "source": "fr.wikipedia.org, Liste des wilayas d'Algérie (commune counts per wilaya), cross-check only"
+    },
+    "20": {
+      "communes": 16,
+      "source": "fr.wikipedia.org, Liste des wilayas d'Algérie (commune counts per wilaya), cross-check only"
+    },
+    "21": {
+      "communes": 38,
+      "source": "fr.wikipedia.org, Liste des wilayas d'Algérie (commune counts per wilaya), cross-check only"
+    },
+    "22": {
+      "communes": 52,
+      "source": "fr.wikipedia.org, Liste des wilayas d'Algérie (commune counts per wilaya), cross-check only"
+    },
+    "23": {
+      "communes": 12,
+      "source": "fr.wikipedia.org, Liste des wilayas d'Algérie (commune counts per wilaya), cross-check only"
+    },
+    "24": {
+      "communes": 34,
+      "source": "fr.wikipedia.org, Liste des wilayas d'Algérie (commune counts per wilaya), cross-check only"
+    },
+    "25": {
+      "communes": 12,
+      "source": "fr.wikipedia.org, Liste des wilayas d'Algérie (commune counts per wilaya), cross-check only"
+    },
+    "26": {
+      "communes": 43,
+      "source": "Loi 26-06 (JORADP 2026 n° 25)"
+    },
+    "27": {
+      "communes": 32,
+      "source": "fr.wikipedia.org, Liste des wilayas d'Algérie (commune counts per wilaya), cross-check only"
+    },
+    "28": {
+      "communes": 24,
+      "source": "Loi 26-06 (JORADP 2026 n° 25)"
+    },
+    "29": {
+      "communes": 47,
+      "source": "fr.wikipedia.org, Liste des wilayas d'Algérie (commune counts per wilaya), cross-check only"
+    },
+    "30": {
+      "communes": 8,
+      "source": "Ordonnance 21-03 (JORADP 2021 n° 22)"
+    },
+    "31": {
+      "communes": 26,
+      "source": "fr.wikipedia.org, Liste des wilayas d'Algérie (commune counts per wilaya), cross-check only"
+    },
+    "32": {
+      "communes": 15,
+      "source": "Loi 26-06 (JORADP 2026 n° 25)"
+    },
+    "33": {
+      "communes": 4,
+      "source": "Loi 19-12 (JORADP 2019 n° 78)"
+    },
+    "34": {
+      "communes": 34,
+      "source": "fr.wikipedia.org, Liste des wilayas d'Algérie (commune counts per wilaya), cross-check only"
+    },
+    "35": {
+      "communes": 32,
+      "source": "fr.wikipedia.org, Liste des wilayas d'Algérie (commune counts per wilaya), cross-check only"
+    },
+    "36": {
+      "communes": 24,
+      "source": "fr.wikipedia.org, Liste des wilayas d'Algérie (commune counts per wilaya), cross-check only"
+    },
+    "37": {
+      "communes": 2,
+      "source": "fr.wikipedia.org, Liste des wilayas d'Algérie (commune counts per wilaya), cross-check only"
+    },
+    "38": {
+      "communes": 22,
+      "source": "fr.wikipedia.org, Liste des wilayas d'Algérie (commune counts per wilaya), cross-check only"
+    },
+    "39": {
+      "communes": 22,
+      "source": "Loi 19-12 (JORADP 2019 n° 78)"
+    },
+    "40": {
+      "communes": 21,
+      "source": "fr.wikipedia.org, Liste des wilayas d'Algérie (commune counts per wilaya), cross-check only"
+    },
+    "41": {
+      "communes": 26,
+      "source": "fr.wikipedia.org, Liste des wilayas d'Algérie (commune counts per wilaya), cross-check only"
+    },
+    "42": {
+      "communes": 28,
+      "source": "fr.wikipedia.org, Liste des wilayas d'Algérie (commune counts per wilaya), cross-check only"
+    },
+    "43": {
+      "communes": 32,
+      "source": "fr.wikipedia.org, Liste des wilayas d'Algérie (commune counts per wilaya), cross-check only"
+    },
+    "44": {
+      "communes": 36,
+      "source": "fr.wikipedia.org, Liste des wilayas d'Algérie (commune counts per wilaya), cross-check only"
+    },
+    "45": {
+      "communes": 12,
+      "source": "fr.wikipedia.org, Liste des wilayas d'Algérie (commune counts per wilaya), cross-check only"
+    },
+    "46": {
+      "communes": 28,
+      "source": "fr.wikipedia.org, Liste des wilayas d'Algérie (commune counts per wilaya), cross-check only"
+    },
+    "47": {
+      "communes": 10,
+      "source": "Loi 19-12 (JORADP 2019 n° 78)"
+    },
+    "48": {
+      "communes": 38,
+      "source": "fr.wikipedia.org, Liste des wilayas d'Algérie (commune counts per wilaya), cross-check only"
+    },
+    "49": {
+      "communes": 10,
+      "source": "Loi 19-12 (JORADP 2019 n° 78)"
+    },
+    "50": {
+      "communes": 2,
+      "source": "Loi 19-12 (JORADP 2019 n° 78)"
+    },
+    "51": {
+      "communes": 6,
+      "source": "Loi 19-12 (JORADP 2019 n° 78)"
+    },
+    "52": {
+      "communes": 10,
+      "source": "Loi 19-12 (JORADP 2019 n° 78)"
+    },
+    "53": {
+      "communes": 3,
+      "source": "Loi 19-12 (JORADP 2019 n° 78)"
+    },
+    "54": {
+      "communes": 2,
+      "source": "Loi 19-12 (JORADP 2019 n° 78)"
+    },
+    "55": {
+      "communes": 13,
+      "source": "Ordonnance 21-03 (JORADP 2021 n° 22)"
+    },
+    "56": {
+      "communes": 2,
+      "source": "Loi 19-12 (JORADP 2019 n° 78)"
+    },
+    "57": {
+      "communes": 8,
+      "source": "Loi 19-12 (JORADP 2019 n° 78)"
+    },
+    "58": {
+      "communes": 3,
+      "source": "Loi 19-12 (JORADP 2019 n° 78)"
+    },
+    "59": {
+      "communes": 12,
+      "source": "Loi 26-06 (JORADP 2026 n° 25)"
+    },
+    "60": {
+      "communes": 8,
+      "source": "Loi 26-06 (JORADP 2026 n° 25)"
+    },
+    "61": {
+      "communes": 5,
+      "source": "Loi 26-06 (JORADP 2026 n° 25)"
+    },
+    "62": {
+      "communes": 4,
+      "source": "Loi 26-06 (JORADP 2026 n° 25)"
+    },
+    "63": {
+      "communes": 4,
+      "source": "Loi 26-06 (JORADP 2026 n° 25)"
+    },
+    "64": {
+      "communes": 6,
+      "source": "Loi 26-06 (JORADP 2026 n° 25)"
+    },
+    "65": {
+      "communes": 10,
+      "source": "Loi 26-06 (JORADP 2026 n° 25)"
+    },
+    "66": {
+      "communes": 8,
+      "source": "Loi 26-06 (JORADP 2026 n° 25)"
+    },
+    "67": {
+      "communes": 21,
+      "source": "Loi 26-06 (JORADP 2026 n° 25)"
+    },
+    "68": {
+      "communes": 23,
+      "source": "Loi 26-06 (JORADP 2026 n° 25)"
+    },
+    "69": {
+      "communes": 7,
+      "source": "Loi 26-06 (JORADP 2026 n° 25)"
+    }
+  }
+}

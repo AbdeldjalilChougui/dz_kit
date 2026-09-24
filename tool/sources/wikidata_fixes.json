@@ -1,0 +1,136 @@
+{
+  "note": "Corrections applied on top of the Wikidata snapshot. Every entry says why. Commune counts are then checked against the Journal officiel (laws 19-12 and 26-06) and the per-wilaya totals in expected_counts.",
+  "exclude": {
+    "Q12710244": "Duplicate of Tadjena (Q1650025), Chlef; no Arabic label, 1 sitelink",
+    "Q3148138": "Ighzer Amokrane is a village of Ouzellaguen commune, not a commune",
+    "Q2921611": "Bouiche is a village of Bouira wilaya, not a commune",
+    "Q2828792": "Ait Ali Ouyahia is a village, not one of the 67 communes of Tizi Ouzou",
+    "Q28220904": "Hammam Ouled Ali is a village, not one of the 34 communes of Guelma",
+    "Q12690114": "Kheraza is a village, not one of the 34 communes of Guelma",
+    "Q12697543": "Mekhareg is a locality, not one of the 12 communes of Laghouat (law 26-06, art. 7)",
+    "Q85804882": "Duplicate of Tadjemout commune, Laghouat",
+    "Q5304572": "Draa Etine is a locality, not a commune of Batna (law 26-06, art. 9)",
+    "Q1309744": "Lambèse is the ancient Roman site; the commune is Tazoult",
+    "Q23788916": "Duplicate of Souahlia, Tlemcen",
+    "Q17013255": "Ouled Djerad is a locality, not a commune of Tiaret (law 26-06, art. 18)",
+    "Q5212383": "Damiat is a locality, not a commune of Médéa (law 26-06, art. 30)",
+    "Q6382556": "Keddara is part of Bouzegza Keddara commune (Q1648978)",
+    "Q16208640": "Duplicate of Berhoum (M'Sila)",
+    "Q17009816": "Mechtat Mehedia is a locality, not a commune",
+    "Q25418293": "Tiranë is in Albania; wrongly typed as a commune of Algeria",
+    "Q12697618": "Label-only duplicate of Menaâ (M'Sila); the commune item is Q3358191",
+    "Q459629": "Timgad archaeological site; the commune is Q3528992",
+    "Q131624555": "Unlabelled duplicate of Adrar commune; the city item Q251181 is used instead"
+  },
+  "include": {
+    "Q1982137": {
+      "wilaya": "26",
+      "reason": "Médéa commune is modelled only as a city item in Wikidata"
+    },
+    "Q770518": {
+      "wilaya": "35",
+      "reason": "Boumerdès commune is modelled only as a city item in Wikidata"
+    },
+    "Q251181": {
+      "wilaya": "01",
+      "reason": "Adrar commune is modelled as a city item in Wikidata; the commune-typed duplicate has no labels"
+    }
+  },
+  "wilaya": {
+    "Q374598": {
+      "wilaya": "02",
+      "reason": "Aïn Merane belongs to Chlef; Wikidata also lists Relizane"
+    },
+    "Q2413817": {
+      "wilaya": "30",
+      "reason": "El Borma was moved from Touggourt to Ouargla by ordonnance 21-03 (JORADP 2021 n° 22, art. 2)"
+    },
+    "Q3128226": {
+      "wilaya": "58",
+      "reason": "Hassi Fehal belongs to El Meniaa (loi 19-12, JORADP 2019 n° 78, art. 52 bis 9)"
+    },
+    "Q3483288": {
+      "wilaya": "32",
+      "reason": "Sidi Slimane of El Bayadh (coordinates 33.83N 1.73E) is linked to the Bayadha daïra of El Oued by mistake"
+    },
+    "Q311960": {
+      "wilaya": "35",
+      "reason": "Ben Choud, Boumerdès (no daïra link)"
+    },
+    "Q2826124": {
+      "wilaya": "35",
+      "reason": "Afir, Boumerdès (no daïra link)"
+    }
+  },
+  "labels": {
+    "Q2215123": {
+      "fr": "Adekar",
+      "ar": "آدكار",
+      "reason": "Item has no labels; names taken from its frwiki/arwiki sitelink titles"
+    },
+    "Q3358191": {
+      "fr": "Menaâ",
+      "ar": "مناعة",
+      "reason": "Item is Menaâ commune (arwiki sitelink 'مناعة (ولاية المسيلة)', daïra of Medjedel) but is labelled 'Ouled Atia'; name as printed in law 26-06, art. 52 bis 19"
+    }
+  },
+  "law_aliases": {
+    "Benacer Benchohra": "Q2896326",
+    "El Haouita": "Q3049975",
+    "El Beïdha": "Q2893944",
+    "Taouiala": "Q3515420",
+    "Inoughissene": "Q2215786",
+    "Ouled Sellem": "Q3358263",
+    "Ksar Belezma": "Q2215226",
+    "Béni Fedhala El Hakania": "Q2214625",
+    "Zana El Beïda": "Q3574752",
+    "Djezzar": "Q3032929",
+    "M'Doukal": "Q1523317",
+    "Meziraa": "Q3050087",
+    "Bouchagroun": "Q2921336",
+    "Khangat Sidi Nadji": "Q3196153",
+    "Djemourah": "Q3032882",
+    "Lahouidjbet": "Q3049976",
+    "Bir Dheheb": "Q2904327",
+    "Gourrigueur": "Q3120926",
+    "El Ma Labiod": "Q3050027",
+    "Thlidjene": "Q3530066",
+    "Boulhaf Dyr": "Q961879",
+    "El Ogla El Melha": "Q3349798",
+    "Tirni Béni Hediel": "Q3518499",
+    "Souk Thlata": "Q3491586",
+    "Tianet": "Q3528212",
+    "Aïn Dzarit": "Q1649140",
+    "Sidi Abdelghani": "Q1650052",
+    "Djileli Ben Amar": "Q673791",
+    "Oued Lili": "Q1649256",
+    "Mechraa Sfa": "Q1649372",
+    "Serguine": "Q1650075",
+    "Moudjbara": "Q3325431",
+    "El Gueddid": "Q2209170",
+    "Ben Yaagoub": "Q2895915",
+    "Aïn Ouessara": "Q651497",
+    "Aïn Fekka": "Q2876327",
+    "Médéa": "Q1982137",
+    "Mezghenna": "Q3307744",
+    "Tamezguida": "Q3514798",
+    "Al Azizia": "Q1847129",
+    "Meghraoua": "Q3276830",
+    "Eddouair": "Q3530064",
+    "Draa Essamar": "Q3038466",
+    "Sidi Errabie": "Q3483229",
+    "Medjebar": "Q3325434",
+    "Khamsa Djoumaa": "Q3196055",
+    "Chelalet El Adhaoura": "Q2962199",
+    "Oum El Djallil": "Q3358293",
+    "Khetouti Sed El Djir": "Q3196166",
+    "Mouhamed Boudiaf": "Q3358005",
+    "Menaâ": "Q3358191",
+    "Aïn El Meleh": "Q1649756",
+    "El Kheïther": "Q3050008",
+    "Krakda": "Q3054778",
+    "Sidi Amar": "Q2784515",
+    "Sidi Slimane": "Q3483288",
+    "El Meharra": "Q3050067"
+  }
+}
