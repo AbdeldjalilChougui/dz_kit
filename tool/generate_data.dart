@@ -21,7 +21,7 @@ import 'dart:io';
 
 const _endpoint = 'https://query.wikidata.org/sparql';
 const _userAgent =
-    'dz_kit-datagen/0.1 (https://github.com/AbeldjalilChougui/dz_kit)';
+    'dz_kit-datagen/0.1 (https://github.com/AbdeldjalilChougui/dz_kit)';
 
 final _root = File.fromUri(Platform.script).parent.parent.path;
 String _p(String rel) => '$_root/$rel';
